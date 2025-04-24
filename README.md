@@ -1,4 +1,12 @@
-## Hi there 👋
+# 👋 Fala aí, eu sou o Cyhax
+
+🎓 Estudante de Ciência da Computação  
+💡 Em aprendizado contínuo — começando por lógica e Python  
+🚀 Foco em desenvolvimento de software, engenharia e arquitetura  
+🧠 Sonho grande, passo firme. Dev em construção com disciplina e visão.
+
+📍 Brasil  
+
 
 <!--
 **cyhax/cyhax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
