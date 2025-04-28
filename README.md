@@ -1,4 +1,4 @@
-# 👋 Fala aí, eu sou o Cyhax
+# 👋 Fala aí, eu sou o Gabriel
 
 🎓 Estudante de Ciência da Computação  
 💡 Em aprendizado contínuo — começando por lógica e Python  
